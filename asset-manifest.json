@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mark-interactive-rating/static/css/main.e5c5b090.css",
+    "main.js": "/mark-interactive-rating/static/js/main.e6dfc1fe.js",
+    "static/js/787.652de61e.chunk.js": "/mark-interactive-rating/static/js/787.652de61e.chunk.js",
+    "static/media/illustration-thank-you.svg": "/mark-interactive-rating/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
+    "index.html": "/mark-interactive-rating/index.html",
+    "static/media/icon-star.svg": "/mark-interactive-rating/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.e5c5b090.css.map": "/mark-interactive-rating/static/css/main.e5c5b090.css.map",
+    "main.e6dfc1fe.js.map": "/mark-interactive-rating/static/js/main.e6dfc1fe.js.map",
+    "787.652de61e.chunk.js.map": "/mark-interactive-rating/static/js/787.652de61e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5c5b090.css",
+    "static/js/main.e6dfc1fe.js"
+  ]
+}
